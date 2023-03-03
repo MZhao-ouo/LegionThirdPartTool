@@ -1,5 +1,5 @@
 # LegionThirdPartTool
-联想拯救者开源工具指北 / Lenovo Legion Third-Part Tool Guide
+联想拯救者第三方工具指北 / Lenovo Legion Third-Part Tool Guide
 
 - LLT拯救者工具箱
 	- [BartoszCichecki/LenovoLegionToolkit: Lightweight replacement of Lenovo Vantage for Lenovo Legion laptops. (github.com)](https://github.com/BartoszCichecki/LenovoLegionToolkit)
